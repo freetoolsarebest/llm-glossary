@@ -9,6 +9,9 @@ Large Language Model, a language model consisting of a neural network with many 
 ### Generative AI
 A generative artificial intelligence or generative AI / (GenAI) is a type of AI system capable of generating text, images, or other media in response to prompts. Generative AI systems use generative models such as large language models to produce data based on the training data set that was used to create them.
 
+### Diffusion Models
+Diffusion Models are a class of probabilistic generative models used in machine learning to simulate the dynamics of complex systems over time. Unlike traditional generative models such as Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs), Diffusion Models simulate the dynamics of a stochastic process that evolves over time, rather than generating a fixed sample from a learned distribution.
+
 ### Hallucination
 In artificial intelligence (AI), a hallucination or artificial hallucination (also occasionally called confabulation or delusion) is a confident response by an AI that does not seem to be justified by its training data.
 
