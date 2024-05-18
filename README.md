@@ -6,7 +6,7 @@
 
 ### Training and Inference Arguments
 
-[<u>Memory<u>](./arguments.md#memory)...[<u>Indexes<u>](./arguments.md#indexes)...[<u>Chains<u>](./arguments.md#chains)...[<u>Agents<u>](./arguments.md#agents)...[<u>Temperature<u>](./arguments.md#temperature)...[<u>Tokens<u>](./arguments.md#tokens)...[<u>Text-Span<u>](./arguments.md#text-span)
+[<u>Memory<u>](./arguments.md#memory)...[<u>Indexes<u>](./arguments.md#indexes)...[<u>Chains<u>](./arguments.md#chains)...[<u>Agents<u>](./arguments.md#agents)...[<u>Temperature<u>](./arguments.md#temperature)...[<u>Tokens<u>](./arguments.md#tokens)...[<u>Text-Span<u>](./arguments.md#text-span)...[<u>Training-Data<u>](./arguments.md#training-data)...[<u>Epoch<u>](./arguments.md#epoch)...[<u>Batch-Size<u>](./arguments.md#batch-size)...[<u>Gradient-Descent<u>](./arguments.md#gradient-descent)...[<u>Learning-Rate<u>](./arguments.md#learning-rate)...[<u>Loss-Function<u>](./arguments.md#loss-function)...[<u>Overfitting<u>](./arguments.md#overfitting)...[<u>Regularization<u>](./arguments.md#regularization)...[<u>Backpropagation<u>](./arguments.md#backpropagation)...[<u>Latency<u>](./arguments.md#latency)...[<u>Throughput<u>](./arguments.md#throughput)...[<u>Fine-tuning<u>](./arguments.md#fine-tuning)...[<u>Prompt<u>](./arguments.md#prompt)...[<u>Context-Window<u>](./arguments.md#context-window)...[<u>Beam-Search<u>](./arguments.md#beam-search)...[<u>Greedy-Search<u>](./arguments.md#greedy-search)...[<u>Softmax<u>](./arguments.md#softmax)...[<u>Sampling<u>](./arguments.md#sampling)...[<u>Tokenization<u>](./arguments.md#tokenization)...[<u>Attention-Mechanism<u>](./arguments.md#attention-mechanism)
 
 ### Model Structure and Training
 
