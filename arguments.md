@@ -1,4 +1,4 @@
-### Arguments Glossary
+### Training and Inference Arguments Glossary
 
 ### Memory
 Memory is the concept of persisting state between calls of a chain/agent. LangChain provides a standard interface for memory, a collection of memory implementations, and examples of chains/agents that use memory.
