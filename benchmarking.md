@@ -1,6 +1,18 @@
 ## Benchmarking Glossary
 
 
+## LLM Benchmarks for RAG 
+
+### Needle in a Haystack(NIAH)
+NIAH was invented to evaluate capabilities in efficiently locating specific information within extensive texts, simulating the real world use cases such as RAG (retrieval-augmented generation).
+
+[Read More](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
+
+### MultiHop-RAG
+A QA dataset to evaluate retrieval and reasoning across documents with metadata in the RAG pipelines. It contains 2556 queries, with evidence for each query distributed across 2 to 4 documents. The queries also involve document metadata, reflecting complex scenarios commonly found in real-world RAG applications.
+
+[Read More](https://github.com/yixuantt/MultiHop-RAG)
+
 ## LLM Benchmarks for Chatbot Assistance
 
 ### ChatBot Arena
@@ -15,7 +27,7 @@ A dataset of challenging questions designed for multi-turn conversations. LLMs a
 
 ## LLM Benchmarks for Question Answering and Language Understanding
 
-#### MMLU
+### MMLU
 Multi-task Language Understanding, is a benchmark designed to measure knowledge acquired during pretraining by evaluating models exclusively in zero-shot and few-shot settings. This makes the benchmark more challenging and more similar to how we evaluate humans.
 
 [Read More](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu)
@@ -60,6 +72,11 @@ An acronym for “Harder Endings, Longer contexts, and Low-shot Activities for S
 
 [Read More](https://arxiv.org/abs/1905.07830)
 
+### Needle in a NeedleStack(NIAN)
+This is based on a limericks [dataset](https://zenodo.org/records/5722527) published in 2021. 
+
+[Read More](https://github.com/llmonpy/needle-in-a-needlestack)
+
 ## LLM Benchmarks for Coding
 
 ### Human Eval
@@ -74,3 +91,5 @@ Short for “Mostly Basic Python Programming'', MBPP is a vast dataset of 1,000 
 
 ### SWE-Bench
 hort for “Software Engineering Benchmark”, SWE-bench is a comprehensive benchmark designed to evaluate LLMs on their ability to tackle real-world software issues sourced from GitHub. This benchmark tests an LLM's proficiency in understanding and resolving software problems by requiring it to generate patches for issues described in the context of actual codebases. Notably, SWE-bench was used to compare the performance of Devin, the AI Software Engineer, with that of assisted foundational LLMs.
+
+[Read More](https://github.com/princeton-nlp/SWE-bench)
