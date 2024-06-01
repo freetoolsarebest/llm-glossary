@@ -15,7 +15,7 @@
 
 ### Model Compression
 
-[<u>Pruning<u>](./model-compression.md#pruning)...[<u>Quantization<u>](./model-compression.md#quantization)...[<u>Distillation<u>](./model-compression.md#distillation)...[<u>Low-rank-factorization](./model-compression.md#low-rank-factorization)
+[<u>Pruning<u>](./model-compression.md#pruning)...[<u>Quantization<u>](./model-compression.md#quantization)...[<u>Distillation<u>](./model-compression.md#distillation)...[<u>Low-rank-factorization](./model-compression.md#low-rank-factorization)...[<u>Knowledge-Distillation<u>](./model-compression.md#knowledge-distillation)...[<u>Tensor-Decomposition<u>](./model-compression.md#tensor-decomposition)...[<u>Weight-Sharing<u>](./model-compression.md#weight-sharing)...[<u>Transfer-Learning<u>](./model-compression.md#transfer-learning)...[<u>Binary-and-Ternary-Networks<u>](./model-compression.md#binary-and-ternary-networks)...[<u>Network-Slimming<u>](./model-compression.md#network-slimming)...[<u>Structured-Pruning<u>](./model-compression.md#structured-pruning)...[<u>Sparse-Representation<u>](./model-compression.md#sparse-representations)...[<u>Parameter-Sharing<u>](./model-compression.md#parameter-sharing)...[<u>Dynamic-Network-Surgery<u>](./model-compression.md#dynamic-network-surgery)...[<u>Deep-Compression<u>](./model-compression.md#deep-compression)...[<u>Filter-Pruning<u>](./model-compression.md#filter-pruning)...[<u>NAS<u>](./model-compression.md#neural-architecture-search-nas)...[<u>Feature-Map-Reuse<u>](./model-compression.md#feature-map-reuse)...[<u>Energy-Aware-Pruning<u>](./model-compression.md#energy-aware-pruning)...[<u>Data-Free-Quantization<u>](./model-compression.md#data-free-quantization)...[<u>Layer-Fusion<u>](./model-compression.md#layer-fusion)
 
 
 ### Benchmarking
