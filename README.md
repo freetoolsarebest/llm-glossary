@@ -2,7 +2,7 @@
 
 ### General 
 
-[<u>LM<u>](general.md#lm)...[<u>LLM<u>](general.md#llm)...[<u>Generative-AI<u>](general.md#generative-ai)...[<u>Diffusion-Models<u>](./general.md#diffusion-models)...[<u>Hallucination<u>](./general.md#hallucination)...[<u>Prompt-Engineering](general.md#prompt-engineering)...[<u>Zero-shot-Prompting<u>](./general.md#zero-shot-promptinglearning)...[<u>Context-Window<u>](./general.md#context-window--context-length)
+[<u>LM<u>](general.md#lm)...[<u>LLM<u>](general.md#llm)...[<u>Generative-AI<u>](general.md#generative-ai)...[<u>Diffusion-Models<u>](./general.md#diffusion-models)...[<u>Hallucination<u>](./general.md#hallucination)...[<u>Prompt-Engineering](general.md#prompt-engineering)...[<u>Zero-shot-Prompting<u>](./general.md#zero-shot-promptinglearning)...[<u>Context-Window<u>](./general.md#context-window--context-length)...[<u>Matryoshka- Embeddings<u>](./general.md#matryoshka-embeddings)
 
 ### Training and Inference Arguments
 

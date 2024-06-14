@@ -24,3 +24,6 @@ Zero-shot learning in NLP allows a pre-trained LLM to generate responses to task
 ### Context Window / Context Length
 Context Window is the number of tokens that are considered when predicting the next token.
 
+### Matryoshka Embeddings
+New state-of-the-art (text) embedding models started producing embeddings with increasingly higher output dimensions, i.e., every input text is represented using more values. Although this improves performance, it comes at the cost of efficiency of downstream tasks such as search or classification.
+[Read More](https://huggingface.co/blog/matryoshka)
