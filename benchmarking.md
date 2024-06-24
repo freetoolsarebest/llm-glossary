@@ -99,6 +99,11 @@ This is based on a limericks [dataset](https://zenodo.org/records/5722527) publi
 
 [Read More](https://github.com/llmonpy/needle-in-a-needlestack)
 
+### GSM8K
+GSM8K consists of 8.5K high quality grade school math problems created by human problem writers. We segmented these into 7.5K training problems and 1K test problems. These problems take between 2 and 8 steps to solve, and solutions primarily involve performing a sequence of elementary calculations using basic arithmetic operations (+ - / *) to reach the final answer. A bright middle school student should be able to solve every problem.
+
+[Read More](https://openai.com/index/solving-math-word-problems/)
+
 ## LLM Benchmarks for Coding
 
 ### Human Eval
