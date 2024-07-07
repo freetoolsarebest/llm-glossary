@@ -25,3 +25,7 @@
 ### Evaluation Metrics
 
 [<u>Response-Completeness<u>](./evaluation-metrics.md#response-completeness-and-conciseness)...[<u>Text-Similarity<u>](./evaluation-metrics.md#text-similarity-metrics)...[<u>Question-Answering-Accuracy<u>](./evaluation-metrics.md#question-answering-accuracy)...[<u>Relevance<u>](./evaluation-metrics.md#relevance)...[<u>Hallucination-Index<u>](./evaluation-metrics.md#hallucination-index)...[<u>Toxicity<u>](./evaluation-metrics.md#toxicity)...[<u>Task-Specific<u>](./evaluation-metrics.md#task-specific-metrics)...[<u>Grammer-and-Syntax<u>](./evaluation-metrics.md#grammar-and-syntax)...[<u>Truthfulness<u>](./evaluation-metrics.md#truthfulness)...[<u>Summary-Capability<u>](./evaluation-metrics.md#summary-capabilities)...[<u>Problem-Solving<u>](./evaluation-metrics.md#problem-solving-capabilities)...[<u>Coherence<u>](./evaluation-metrics.md#coherence)...[<u>Diversity<u>](./evaluation-metrics.md#diversity)...[<u>Engagement<u>](./evaluation-metrics.md#engagement)...[<u>Empathy<u>](./evaluation-metrics.md#empathy)...[<u>Fairness<u>](./evaluation-metrics.md#fairness)...[<u>Robustness<u>](./evaluation-metrics.md#robustness)...[<u>Scalibity<u>](./evaluation-metrics.md#scalability)...[<u>Efficiency<u>](./evaluation-metrics.md#efficiency)
+
+## 🌐 Contributing
+
+Contributions are welcome! Please check out [contributing guidelines](./CONTRIBUTING.md) and feel free to open a pull request. 
